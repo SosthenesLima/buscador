@@ -1,5 +1,7 @@
 /*
   By Sósthenes Lima
+  09/07/2024
+
  */
 import java.net.URI;
 import java.net.http.HttpClient;
