@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48ddcee4-04aa-4434-baee-1a2008235aa0" name="Changes" comment="Commit Obtendo um endereço da API ViaCEP04">
+    <list default="true" id="48ddcee4-04aa-4434-baee-1a2008235aa0" name="Changes" comment="Commit Obtendo um endereço da API ViaCEP05">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,8 @@
       <workItem from="1720375821201" duration="1615000" />
       <workItem from="1720485691234" duration="612000" />
       <workItem from="1720487070658" duration="2269000" />
+      <workItem from="1720565628572" duration="85000" />
+      <workItem from="1720659199868" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Inicial">
       <option name="closed" value="true" />
@@ -102,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720486295255</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commit Obtendo um endereço da API ViaCEP05">
+      <option name="closed" value="true" />
+      <created>1720565700435</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720565700435</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +124,7 @@
     <MESSAGE value="Commit Obtendo um endereço da API ViaCEP01" />
     <MESSAGE value="Commit Obtendo um endereço da API ViaCEP02" />
     <MESSAGE value="Commit Obtendo um endereço da API ViaCEP04" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Obtendo um endereço da API ViaCEP04" />
+    <MESSAGE value="Commit Obtendo um endereço da API ViaCEP05" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Obtendo um endereço da API ViaCEP05" />
   </component>
 </project>
