@@ -1,7 +1,7 @@
 /*
   By Sósthenes Lima
   09/07/2024
-
+  atualização
  */
 import org.ietf.jgss.GSSContext;
 
