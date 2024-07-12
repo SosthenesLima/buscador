@@ -3,6 +3,7 @@
   09/07/2024
   atualização
  */
+import com.google.gson.Gson;
 import org.ietf.jgss.GSSContext;
 
 import java.net.URI;
@@ -24,7 +25,7 @@ public class ConsultaCep {
                 .newHttpClient()
                 .send(request, HttpResponse.BodyHandlers.ofString());
 
-        return new
+        return new Gson().fromJson(response.body(), Endereco.class);
 
 
     }
