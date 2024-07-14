@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48ddcee4-04aa-4434-baee-1a2008235aa0" name="Changes" comment="Commit Obtendo um endereço da API ViaCEP09" />
+    <list default="true" id="48ddcee4-04aa-4434-baee-1a2008235aa0" name="Changes" comment="Commit Obtendo um endereço da API ViaCEP10">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConsultaCep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConsultaCep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -84,7 +89,9 @@
       <workItem from="1720730622690" duration="733000" />
       <workItem from="1720749612859" duration="1883000" />
       <workItem from="1720825741214" duration="3553000" />
-      <workItem from="1720915924679" duration="299000" />
+      <workItem from="1720915924679" duration="969000" />
+      <workItem from="1720917332951" duration="3038000" />
+      <workItem from="1720959061929" duration="1501000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Inicial">
       <option name="closed" value="true" />
@@ -166,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720916156874</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Commit Obtendo um endereço da API ViaCEP10">
+      <option name="closed" value="true" />
+      <created>1720916421930</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1720916421930</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +198,7 @@
     <MESSAGE value="Commit Obtendo um endereço da API ViaCEP07" />
     <MESSAGE value="Commit Obtendo um endereço da API ViaCEP08" />
     <MESSAGE value="Commit Obtendo um endereço da API ViaCEP09" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Obtendo um endereço da API ViaCEP09" />
+    <MESSAGE value="Commit Obtendo um endereço da API ViaCEP10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Obtendo um endereço da API ViaCEP10" />
   </component>
 </project>

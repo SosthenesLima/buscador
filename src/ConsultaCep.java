@@ -22,17 +22,16 @@ public class ConsultaCep {
                 .uri(endereco)
                 .build();
 
-        HttpResponse<String> response = null;
+
         try {
-            response = HttpClient
+            HttpResponse<String> response = HttpClient
                     .newHttpClient()
                     .send(request, HttpResponse.BodyHandlers.ofString());
-        } catch (IOException | InterruptedException e) {
+            return new Gson().fromJson(response.body(), Endereco.class);
+        } catch (Exception e) {
             throw new RuntimeException("Não conseguir obter o endereço a partir desse CEP.");
 
         }
-
-        return new Gson().fromJson(response.body(), Endereco.class);
 
 
     }
