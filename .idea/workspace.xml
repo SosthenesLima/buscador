@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48ddcee4-04aa-4434-baee-1a2008235aa0" name="Changes" comment="Commit Criando um gerador de arquivos04">
+    <list default="true" id="48ddcee4-04aa-4434-baee-1a2008235aa0" name="Changes" comment="Commit Criando um gerador de arquivos05">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
     </list>
@@ -27,13 +27,16 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2ipR5NMe64Llxt1Y1selhYySsqz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -93,7 +96,8 @@
       <workItem from="1720915924679" duration="969000" />
       <workItem from="1720917332951" duration="3038000" />
       <workItem from="1720959061929" duration="3986000" />
-      <workItem from="1721092736408" duration="318000" />
+      <workItem from="1721092736408" duration="1226000" />
+      <workItem from="1721181246287" duration="637000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Inicial">
       <option name="closed" value="true" />
@@ -215,13 +219,22 @@
       <option name="project" value="LOCAL" />
       <updated>1720964236075</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Commit Criando um gerador de arquivos05">
+      <option name="closed" value="true" />
+      <created>1721093354617</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1721093354617</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Commit Inicial" />
     <MESSAGE value="Commit Inicial02" />
     <MESSAGE value="Commit Obtendo um endereço da API ViaCEP01" />
@@ -236,6 +249,7 @@
     <MESSAGE value="Commit Criando um gerador de arquivos01" />
     <MESSAGE value="Commit Criando um gerador de arquivos03" />
     <MESSAGE value="Commit Criando um gerador de arquivos04" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Criando um gerador de arquivos04" />
+    <MESSAGE value="Commit Criando um gerador de arquivos05" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Criando um gerador de arquivos05" />
   </component>
 </project>
