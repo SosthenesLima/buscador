@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48ddcee4-04aa-4434-baee-1a2008235aa0" name="Changes" comment="Commit Criando um gerador de arquivos05">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-    </list>
+    <list default="true" id="48ddcee4-04aa-4434-baee-1a2008235aa0" name="Changes" comment="Commit Finalização" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +94,7 @@
       <workItem from="1720917332951" duration="3038000" />
       <workItem from="1720959061929" duration="3986000" />
       <workItem from="1721092736408" duration="1226000" />
-      <workItem from="1721181246287" duration="637000" />
+      <workItem from="1721181246287" duration="1259000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Inicial">
       <option name="closed" value="true" />
@@ -227,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721093354617</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Commit Finalização">
+      <option name="closed" value="true" />
+      <created>1721182043072</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1721182043072</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +255,7 @@
     <MESSAGE value="Commit Criando um gerador de arquivos03" />
     <MESSAGE value="Commit Criando um gerador de arquivos04" />
     <MESSAGE value="Commit Criando um gerador de arquivos05" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Criando um gerador de arquivos05" />
+    <MESSAGE value="Commit Finalização" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Finalização" />
   </component>
 </project>
